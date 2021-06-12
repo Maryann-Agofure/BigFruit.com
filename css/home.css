@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  overflow-x: none;
+  overflow-y: scroll;
+  height: 100vh;
+  font-size: 16px;
+}
+.container {
+  background-image: url("../images/alvaro-serrano-hjwKMkehBco-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.logo-image {
+  width: 150px;
+  height: 80px;
+}
+img {
+  width: 90%;
+  height: 95%;
+}
